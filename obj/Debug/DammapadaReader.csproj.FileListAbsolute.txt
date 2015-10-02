@@ -1,0 +1,28 @@
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\bin\Debug\DammapadaReader.exe.config
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\bin\Debug\DammapadaReader.exe
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\bin\Debug\DammapadaReader.pdb
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\obj\Debug\DammapadaReader.csprojResolveAssemblyReference.cache
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\obj\Debug\View\MainWindow.g.cs
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\obj\Debug\App.g.cs
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\obj\Debug\DammapadaReader_MarkupCompile.cache
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\obj\Debug\DammapadaReader_MarkupCompile.lref
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\obj\Debug\View\MainWindow.baml
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\obj\Debug\DammapadaReader.g.resources
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\obj\Debug\DammapadaReader.Properties.Resources.resources
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\obj\Debug\DammapadaReader.csproj.GenerateResource.Cache
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\obj\Debug\DammapadaReader.exe
+C:\Users\Kamal Rathnayake\Documents\Visual Studio 2015\Projects\ConsoleApplication1\DammapadaReader\obj\Debug\DammapadaReader.pdb
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\bin\Debug\DammapadaReader.exe.config
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\obj\Debug\DammapadaReader.exe
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\obj\Debug\DammapadaReader.pdb
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\bin\Debug\DammapadaReader.exe
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\bin\Debug\DammapadaReader.pdb
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\obj\Debug\DammapadaReader.csprojResolveAssemblyReference.cache
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\obj\Debug\View\MainWindow.g.cs
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\obj\Debug\App.g.cs
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\obj\Debug\DammapadaReader_MarkupCompile.cache
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\obj\Debug\DammapadaReader_MarkupCompile.lref
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\obj\Debug\View\MainWindow.baml
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\obj\Debug\DammapadaReader.g.resources
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\obj\Debug\DammapadaReader.Properties.Resources.resources
+C:\Users\Kamal Rathnayake\Desktop\DammapadaReader\obj\Debug\DammapadaReader.csproj.GenerateResource.Cache
